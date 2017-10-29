@@ -1,2 +1,2 @@
-# car-race-game
-A simple car race game using jQuery
+# Car Racing Game
+A simple car racing game using jQuery. The user competes with other cars.
