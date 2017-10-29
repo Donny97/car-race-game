@@ -16,8 +16,6 @@
 
 #car1   {
     top: 15px;
-    
-    
 }
 
 #car2   {
@@ -38,7 +36,6 @@
     text-transform: uppercase;
     border-bottom: solid 1px white;
     padding: 20px 0;
-    
 }
 
 .raceInfo   {
@@ -48,7 +45,6 @@
     color: white;
     width: 50%;
     float: left;
-    
 }
 
 .raceInfo span  {
@@ -97,11 +93,6 @@ h1 ,h2 {
 
 #go {
     margin-right: 70px;
-    
-}
-
-#reset {
-    
     
 }
 
