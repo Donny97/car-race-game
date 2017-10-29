@@ -11,12 +11,12 @@
 .car    {
     display: block;
     position: relative;
-    
+   /* padding : null;*/
 }
 
 #car1   {
     top: 15px;
-    
+    /*left : 20px;*/
     
 }
 
